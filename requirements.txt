@@ -1,0 +1,14 @@
+streamlit
+torch
+transformers
+scikit-learn
+pandas
+numpy
+datasets
+importlib
+pickle
+sklearn
+matplotlib
+seaborn
+faker
+random
