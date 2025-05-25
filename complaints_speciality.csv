@@ -1,0 +1,121 @@
+Complaint,Specialty
+baş ağrısı,Nöroloji
+migren,Nöroloji
+baş dönmesi,Nöroloji
+uykusuzluk,Nöroloji
+zihinsel yorgunluk,Nöroloji
+nöbet,Nöroloji
+beyin,Nöroloji
+epilepsi,Nöroloji
+alzheimer,Nöroloji
+parkison,Nöroloji
+cilt döküntüsü,Cildiye
+kaşıntı,Cildiye
+deri,Cildiye
+akne,Cildiye
+sivilce,Cildiye
+güneş lekesi,Cildiye
+alerji,Cildiye
+egzama,Cildiye
+dermatit,Cildiye
+sedef,Cildiye
+bulanık görme,Göz Hastalıkları
+göz ağrısı,Göz Hastalıkları
+göz kuruluğu,Göz Hastalıkları
+görme kaybı,Göz Hastalıkları
+göz enfeksiyonu,Göz Hastalıkları
+katarakt,Göz Hastalıkları
+glokom,Göz Hastalıkları
+göz yanması,Göz Hastalıkları
+gözlük,Göz Hastalıkları
+göz kayması,Göz Hastalıkları
+kan şekeri,Dahiliye
+hipertansiyon,Dahiliye
+kolesterol,Dahiliye
+diyabet,Dahiliye
+kalp hastalıkları,Dahiliye
+astım,Dahiliye
+obezite,Dahiliye
+tiroit,Dahiliye
+yüksek tansiyon,Dahiliye
+soğuk algınlığı,Dahiliye
+karın ağrısı,Genel Cerrahi
+apandisit,Genel Cerrahi
+sindirim problemleri,Genel Cerrahi
+karaciğer hastalıkları,Genel Cerrahi
+kolesistit,Genel Cerrahi
+gastrit,Genel Cerrahi
+safra kesesi,Genel Cerrahi
+şişmanlık,Genel Cerrahi
+mide bulantısı,Genel Cerrahi
+kilo kaybı,Genel Cerrahi
+kalp ağrısı,Kardiyoloji
+hipertansiyon,Kardiyoloji
+koroner arter hastalığı,Kardiyoloji
+kalp krizi,Kardiyoloji
+kolesterol,Kardiyoloji
+kalp ritmi,Kardiyoloji
+tansiyon,Kardiyoloji
+nefes darlığı,Kardiyoloji
+yüksek kolesterol,Kardiyoloji
+bypass,Kardiyoloji
+burun tıkanıklığı,Kulak Burun Boğaz
+sinüs enfeksiyonu,Kulak Burun Boğaz
+boğaz ağrısı,Kulak Burun Boğaz
+kulak ağrısı,Kulak Burun Boğaz
+işitme kaybı,Kulak Burun Boğaz
+zorlukla nefes almak,Kulak Burun Boğaz
+ses kısıklığı,Kulak Burun Boğaz
+öksürük,Kulak Burun Boğaz
+sindirimi güçlük,Kulak Burun Boğaz
+burun akıntısı,Kulak Burun Boğaz
+adet düzensizliği,Jinekoloji
+gebelik,Jinekoloji
+doğum kontrolü,Jinekoloji
+kısırlık,Jinekoloji
+menopoz,Jinekoloji
+vajinal enfeksiyon,Jinekoloji
+rahim hastalıkları,Jinekoloji
+rahim kanseri,Jinekoloji
+karnı ağrısı,Jinekoloji
+çocuk doğurma,Jinekoloji
+çocuk sağlığı,Pediatri
+büyüme bozuklukları,Pediatri
+ateş,Pediatri
+cilt döküntüsü,Pediatri
+kulak ağrısı,Pediatri
+aşı,Pediatri
+grip,Pediatri
+zihinsel gelişim,Pediatri
+çocuk gelişimi,Pediatri
+gelişimsel gerilik,Pediatri
+idrar yolu enfeksiyonu,Üroloji
+sistit,Üroloji
+prostat,Üroloji
+böbrek taşı,Üroloji
+idrar kaçırma,Üroloji
+testis ağrısı,Üroloji
+idrar retansiyonu,Üroloji
+erektil disfonksiyon,Üroloji
+idrar yapma zorluğu,Üroloji
+mesane,Üroloji
+sırt ağrısı,Ortopedi
+eklem ağrısı,Ortopedi
+kas ağrısı,Ortopedi
+kemik kırığı,Ortopedi
+artrit,Ortopedi
+kireçlenme,Ortopedi
+bacak ağrısı,Ortopedi
+boyun ağrısı,Ortopedi
+omuz ağrısı,Ortopedi
+fiziksel tedavi,Ortopedi
+depresyon,Psikiyatri
+anksiyete,Psikiyatri
+panik atak,Psikiyatri
+stres,Psikiyatri
+kaygı,Psikiyatri
+zihinsel sağlık,Psikiyatri
+intihar,Psikiyatri
+psikolojik destek,Psikiyatri
+bipolar,Psikiyatri
+sosyal fobi,Psikiyatri

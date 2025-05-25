@@ -1,0 +1,501 @@
+﻿Doctor_ID,Doctor_Name,Specialty,Hospital
+1,Kâmil Türk,Ortopodi,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+2,Yahşi Korutürk,Ortopodi,Özel City Hospital
+3,Günver Erdoğan,Pediatri,Özel Acıbadem Bursa Hastanesi
+4,Yazgül Sakarya,Ortopodi,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+5,Yalın Soylu,Jinekoloji,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+6,Mahir Zorlu,Ortopodi,Özel Ege Şehir Hastanesi
+7,Ergün Manço,Dahiliye,Özel Ege Şehir Hastanesi
+8,Fami Arsoy,Dahiliye,Özel City Hospital
+9,Şefi Bilgin,Dahiliye,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+10,Hariz Çorlu,Göz Hastalıkları,Özel City Hospital
+11,Sarya Alemdar,Göz Hastalıkları,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+12,Kızıl Türk,Pediatri,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+13,Beriye Akça,Nöroloji,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+14,Nurey Tarhan,Pediatri,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+15,Sancak Tarhan,Pediatri,Koç Üniversitesi Hastanesi
+16,Artan Dumanlı,Dahiliye,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+17,Atalay Dumanlı,Dahiliye,Bursa Çekirge Devlet Hastanesi
+18,Güçyeter Çamurcuoğlu,Jinekoloji,Özel Ege Şehir Hastanesi
+19,Songurkan İhsanoğlu,Dahiliye,Haseki Eğitim ve Araştırma Hastanesi
+20,Dorukhan Aksu,Cildiye,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+21,Kanpulat Bilge,Jinekoloji,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+22,Güçal Akçay,Jinekoloji,Haseki Eğitim ve Araştırma Hastanesi
+23,Tamaydın Gül,Nöroloji,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+24,Piran Karadeniz,Dahiliye,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+25,Altınçiçek Demirel,Dahiliye,Bursa Çekirge Devlet Hastanesi
+26,Karcan Zengin,Cildiye,Özel City Hospital
+27,Adak Çorlu,Dahiliye,Bursa Şehir Hastanesi
+28,Güllühan Yorulmaz,Kulak Burun Boğaz,Bursa Şehir Hastanesi
+29,Özbilek Gül,Kardiyoloji,Haseki Eğitim ve Araştırma Hastanesi
+30,Zamir Gül,Jinekoloji,Özel Ege Şehir Hastanesi
+31,Onursu Hançer,Göz Hastalıkları,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+32,Baykan Güçlü,Kardiyoloji,Bursa Şehir Hastanesi
+33,Onursu Güçlü,Pediatri,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+34,Ozansü Alemdar,Göz Hastalıkları,Ankara Bilkent Şehir Hastanesi
+35,Şuayp Çetin,Dahiliye,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+36,Yolal Sezer,Psikiyatri,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+37,Kutgün Demir,Cildiye,Haseki Eğitim ve Araştırma Hastanesi
+38,Milay Akgündüz,Dahiliye,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+39,Özgür Ülker,Dahiliye,Ankara Bilkent Şehir Hastanesi
+40,Duruöz Dumanlı,Dahiliye,Özel Acıbadem Bursa Hastanesi
+41,Adal Bilir,Göz Hastalıkları,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+42,Ruhide Erdoğan,Pediatri,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+43,Çinerk Bilir,Üroloji,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+44,Kelâmi Ergül,Pediatri,Koç Üniversitesi Hastanesi
+45,Muhyettin Çamurcuoğlu,Ortopodi,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+46,Gülter Eraslan,Göz Hastalıkları,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+47,Özlem Yüksel,Göz Hastalıkları,Bursa Şehir Hastanesi
+48,Zemzem Akça,Dahiliye,Ankara Bilkent Şehir Hastanesi
+49,İlim Güçlü,Üroloji,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+50,Melihcan Erdoğan,Üroloji,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+51,Buyrukhan Demir,Jinekoloji,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+52,Üçgül Akgündüz,Kulak Burun Boğaz,Özel Acıbadem Bursa Hastanesi
+53,Sargın Türk,Kardiyoloji,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+54,Nezihi Zorlu,Kardiyoloji,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+55,Irıs Gül,Dahiliye,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+56,Nurkan Durdu,Cildiye,Özel City Hospital
+57,Sezginbaş Zengin,Genel Cerrahi,Bursa Çekirge Devlet Hastanesi
+58,Güngören Ertaş,Ortopodi,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+59,Erten Alemdar,Dahiliye,Koç Üniversitesi Hastanesi
+60,Tanhan Çamurcuoğlu,Jinekoloji,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+61,Süvari Şensoy,Genel Cerrahi,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+62,Mehmetzahir Yaman,Kulak Burun Boğaz,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+63,Alpcan İhsanoğlu,Dahiliye,Özel Acıbadem Bursa Hastanesi
+64,Aypar Arsoy,Psikiyatri,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+65,Rümeysa Sakarya,Nöroloji,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+66,Kutun Kısakürek,Psikiyatri,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+67,Verde Karadeniz,Psikiyatri,Bursa Şehir Hastanesi
+68,Besey Manço,Ortopodi,Bursa Çekirge Devlet Hastanesi
+69,Dayar Bilgin,Pediatri,Bursa Çekirge Devlet Hastanesi
+70,Feza Fırat,Ortopodi,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+71,Kayrabay Şener,Göz Hastalıkları,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+72,Yaşattin Korutürk,Psikiyatri,Koç Üniversitesi Hastanesi
+73,Tekbay Akça,Cildiye,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+74,Limon Yüksel,Kulak Burun Boğaz,Özel Ege Şehir Hastanesi
+75,Gökperi Akça,Pediatri,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+76,Batırhan Güçlü,Göz Hastalıkları,Özel Ege Şehir Hastanesi
+77,Günver Alemdar,Göz Hastalıkları,Özel Ege Şehir Hastanesi
+78,Merim Yılmaz,Pediatri,Haseki Eğitim ve Araştırma Hastanesi
+79,Apaydın Bilge,Psikiyatri,Haseki Eğitim ve Araştırma Hastanesi
+80,Tayyibe Şafak,Pediatri,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+81,Binbaşar Gül,Cildiye,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+82,Selcen Güçlü,Üroloji,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+83,Şemsettin Manço,Nöroloji,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+84,Ervaniye Çorlu,Kardiyoloji,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+85,Yağın Seven,Ortopodi,Haseki Eğitim ve Araştırma Hastanesi
+86,Özge Kısakürek,Psikiyatri,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+87,Koçkan Arsoy,Üroloji,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+88,Görsev Sezgin,Jinekoloji,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+89,Silanur Öcalan,Dahiliye,Özel City Hospital
+90,Savni Demirel,Dahiliye,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+91,Atanur Şafak,Dahiliye,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+92,Fehim Yaman,Dahiliye,Koç Üniversitesi Hastanesi
+93,Çelem Şensoy,Jinekoloji,Özel Ege Şehir Hastanesi
+94,Melihcan Akgündüz,Jinekoloji,Ankara Bilkent Şehir Hastanesi
+95,Kader Gülen,Dahiliye,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+96,Selvi Çamurcuoğlu,Jinekoloji,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+97,Aclan Fırat,Kardiyoloji,Ankara Bilkent Şehir Hastanesi
+98,Nural Alemdar,Kulak Burun Boğaz,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+99,Ürfettin Yorulmaz,Jinekoloji,Koç Üniversitesi Hastanesi
+100,Yalın Kısakürek,Genel Cerrahi,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+101,Bedi Durmuş,Jinekoloji,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+102,Kırgız Şensoy,Nöroloji,Koç Üniversitesi Hastanesi
+103,Aylil Yılmaz,Pediatri,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+104,Veis İhsanoğlu,Pediatri,Özel City Hospital
+105,Ahat Durmuş,Cildiye,Bursa Şehir Hastanesi
+106,Türkmen Eraslan,Kardiyoloji,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+107,Gülözge Soylu,Pediatri,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+108,Sernur Yüksel,Dahiliye,Bursa Çekirge Devlet Hastanesi
+109,Uzbay Durdu,Nöroloji,Özel City Hospital
+110,Denizalp Manço,Kulak Burun Boğaz,Ankara Bilkent Şehir Hastanesi
+111,Cenan Fırat,Dahiliye,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+112,Aktemür Fırat,Dahiliye,Özel Acıbadem Bursa Hastanesi
+113,Alize Zorlu,Kulak Burun Boğaz,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+114,Bican Yıldırım,Kardiyoloji,Bursa Çekirge Devlet Hastanesi
+115,Sevdi Akgündüz,Cildiye,Ankara Bilkent Şehir Hastanesi
+116,Barışcan Ülker,Pediatri,Özel City Hospital
+117,Rıfkıye Seven,Jinekoloji,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+118,Adila Arsoy,Kardiyoloji,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+119,Meveddet Şener,Göz Hastalıkları,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+120,Sanur Yaman,Pediatri,Koç Üniversitesi Hastanesi
+121,Seçgül Seven,Kulak Burun Boğaz,Bursa Çekirge Devlet Hastanesi
+122,İlgi Bilge,Kardiyoloji,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+123,Irıs Akgündüz,Jinekoloji,Koç Üniversitesi Hastanesi
+124,Mucahit Fırat,Kardiyoloji,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+125,Zeride Hançer,Dahiliye,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+126,Zahid Tevetoğlu,Cildiye,Özel City Hospital
+127,Serol Korutürk,Dahiliye,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+128,Gülinaz Durmuş,Göz Hastalıkları,Özel City Hospital
+129,Yamin Çorlu,Dahiliye,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+130,Cangür Ergül,Cildiye,Özel City Hospital
+131,İlbek Erdoğan,Kardiyoloji,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+132,Nural Öcalan,Jinekoloji,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+133,Rayla Aksu,Dahiliye,Koç Üniversitesi Hastanesi
+134,Alsoy Bilge,Pediatri,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+135,Bağdat Çorlu,Jinekoloji,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+136,Abdülsamed Demir,Dahiliye,Ankara Bilkent Şehir Hastanesi
+137,Monis Akdeniz,Nöroloji,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+138,Göken Fırat,Jinekoloji,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+139,Dayar Şener,Nöroloji,Haseki Eğitim ve Araştırma Hastanesi
+140,Akdurmuş Öcalan,Psikiyatri,Özel City Hospital
+141,Satrettin Sezer,Kardiyoloji,Ankara Bilkent Şehir Hastanesi
+142,Şefi Ertaş,Pediatri,Haseki Eğitim ve Araştırma Hastanesi
+143,Mükrüme Ertaş,Cildiye,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+144,Besey Bilge,Jinekoloji,Özel Ege Şehir Hastanesi
+145,Arıpınar Zengin,Dahiliye,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+146,Karakucak Akgündüz,Üroloji,Bursa Çekirge Devlet Hastanesi
+147,Sunel Soylu,Genel Cerrahi,Bursa Çekirge Devlet Hastanesi
+148,Ozansü Manço,Pediatri,Koç Üniversitesi Hastanesi
+149,Buhari Çamurcuoğlu,Kulak Burun Boğaz,Bursa Çekirge Devlet Hastanesi
+150,Yahşikan Çetin,Göz Hastalıkları,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+151,Siper Sezgin,Dahiliye,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+152,Nurseda Yorulmaz,Pediatri,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+153,Şehamet Çorlu,Nöroloji,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+154,Müferrih Duran,Üroloji,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+155,Yosma Dumanlı,Dahiliye,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+156,Günkurt Hançer,Cildiye,Haseki Eğitim ve Araştırma Hastanesi
+157,Beste İhsanoğlu,Dahiliye,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+158,Sezal Ergül,Dahiliye,Bursa Çekirge Devlet Hastanesi
+159,Belgizar Gül,Dahiliye,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+160,Ayşan Yıldırım,Psikiyatri,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+161,Şeyda Akçay,Üroloji,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+162,Coşkun Tarhan,Jinekoloji,Ankara Bilkent Şehir Hastanesi
+163,Sulhi İhsanoğlu,Dahiliye,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+164,Cemiyle Dumanlı,Pediatri,Bursa Çekirge Devlet Hastanesi
+165,Feremez Akdeniz,Göz Hastalıkları,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+166,Aybet Soylu,Göz Hastalıkları,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+167,Zihni Akgündüz,Ortopodi,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+168,Oymak Şafak,Cildiye,Özel Acıbadem Bursa Hastanesi
+169,Dalkılıç Ülker,Genel Cerrahi,Özel Ege Şehir Hastanesi
+170,Sücaettin Fırat,Ortopodi,Bursa Şehir Hastanesi
+171,Feza Mansız,Göz Hastalıkları,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+172,Hekime Türk,Dahiliye,Bursa Çekirge Devlet Hastanesi
+173,Utkucan Sakarya,Dahiliye,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+174,Gülev Yaman,Ortopodi,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+175,Üstün Akdeniz,Pediatri,Bursa Çekirge Devlet Hastanesi
+176,Akdora Zorlu,Kulak Burun Boğaz,Özel Acıbadem Bursa Hastanesi
+177,Rakide Aslan,Kulak Burun Boğaz,Özel City Hospital
+178,Örfiye Zengin,Pediatri,Özel Acıbadem Bursa Hastanesi
+179,Hüsnühâl Şener,Pediatri,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+180,Üstün Bilge,Psikiyatri,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+181,Yigit Eraslan,Pediatri,Bursa Şehir Hastanesi
+182,Nasiba Güçlü,Dahiliye,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+183,Ruhugül Bilgin,Dahiliye,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+184,Bengibay Zorlu,Cildiye,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+185,Şahinder Kısakürek,Dahiliye,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+186,Emirşan Manço,Pediatri,Koç Üniversitesi Hastanesi
+187,İlalmış Bilir,Kulak Burun Boğaz,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+188,Binay Erdoğan,Üroloji,Bursa Çekirge Devlet Hastanesi
+189,Rezzak Manço,Jinekoloji,Özel City Hospital
+190,Cemiyle Akdeniz,Kulak Burun Boğaz,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+191,Güverçin Hayrioğlu,Genel Cerrahi,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+192,Şelâle Tevetoğlu,Pediatri,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+193,Vezrife Zengin,Göz Hastalıkları,Bursa Çekirge Devlet Hastanesi
+194,Fidaye Bilge,Jinekoloji,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+195,Dalan Ertaş,Dahiliye,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+196,Şahinder Seven,Dahiliye,Haseki Eğitim ve Araştırma Hastanesi
+197,Güverçin Sezer,Dahiliye,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+198,Cihandide Alemdar,Genel Cerrahi,Koç Üniversitesi Hastanesi
+199,Yalın Sakarya,Dahiliye,Özel Ege Şehir Hastanesi
+200,Oliver Şensoy,Jinekoloji,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+201,Fatih Karadeniz,Göz Hastalıkları,Özel City Hospital
+202,Yargı Öcalan,Dahiliye,Bursa Çekirge Devlet Hastanesi
+203,Fehim Akça,Göz Hastalıkları,Bursa Çekirge Devlet Hastanesi
+204,Yalın Duran,Dahiliye,Özel City Hospital
+205,Oktüremiş Akdeniz,Göz Hastalıkları,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+206,Güllühan Duran,Pediatri,Özel City Hospital
+207,Yazgül Ergül,Kulak Burun Boğaz,Özel City Hospital
+208,Hanbiken Soylu,Üroloji,Özel Acıbadem Bursa Hastanesi
+209,Melûl Akar,Kardiyoloji,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+210,Sonad Şama,Üroloji,Bursa Şehir Hastanesi
+211,Neşrin Korutürk,Nöroloji,Özel Ege Şehir Hastanesi
+212,Görklü Sakarya,Göz Hastalıkları,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+213,Uçan Hançer,Cildiye,Bursa Şehir Hastanesi
+214,Baykan Soylu,Nöroloji,Bursa Şehir Hastanesi
+215,Ummahani Aslan,Pediatri,Koç Üniversitesi Hastanesi
+216,Öryürek Yıldırım,Cildiye,Bursa Çekirge Devlet Hastanesi
+217,Nevsal Durmuş,Dahiliye,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+218,Şevket Korutürk,Dahiliye,Özel City Hospital
+219,Tuğrulhan Türk,Dahiliye,Ankara Bilkent Şehir Hastanesi
+220,Idık Soylu,Genel Cerrahi,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+221,Tansığ Tevetoğlu,Üroloji,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+222,Bayman Zorlu,Göz Hastalıkları,Özel City Hospital
+223,Abdulsemet Yüksel,Dahiliye,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+224,Gülper Ergül,Dahiliye,Haseki Eğitim ve Araştırma Hastanesi
+225,Miyesser Alemdar,Psikiyatri,Özel Ege Şehir Hastanesi
+226,Gülter Akgündüz,Nöroloji,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+227,Süheyda İhsanoğlu,Pediatri,Ankara Bilkent Şehir Hastanesi
+228,Ekber Gülen,Üroloji,Haseki Eğitim ve Araştırma Hastanesi
+229,Cemiyle Durmuş,Kulak Burun Boğaz,Özel Acıbadem Bursa Hastanesi
+230,Eryıldız Akça,Üroloji,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+231,Rengül Türk,Psikiyatri,Koç Üniversitesi Hastanesi
+232,Dinçsü Akar,Kardiyoloji,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+233,Tahir Manço,Kulak Burun Boğaz,Koç Üniversitesi Hastanesi
+234,Alpsü Sezgin,Kulak Burun Boğaz,Koç Üniversitesi Hastanesi
+235,Buhari Sakarya,Kardiyoloji,Bursa Çekirge Devlet Hastanesi
+236,Mazlum Mansız,Pediatri,Bursa Çekirge Devlet Hastanesi
+237,Ulakbey Yılmaz,Dahiliye,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+238,Erenalp Çamurcuoğlu,Pediatri,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+239,Miray Mansız,Dahiliye,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+240,İlim Zorlu,Pediatri,Özel Ege Şehir Hastanesi
+241,Uzbay Zorlu,Nöroloji,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+242,Acarkan Zorlu,Pediatri,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+243,Ayşenur Ülker,Kardiyoloji,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+244,Zennun Tevetoğlu,Jinekoloji,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+245,Gülşa Aslan,Dahiliye,Bursa Çekirge Devlet Hastanesi
+246,Şenkal Gülen,Dahiliye,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+247,Erensoy Dumanlı,Cildiye,Bursa Şehir Hastanesi
+248,Ulutay Hançer,Göz Hastalıkları,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+249,Vezat Zorlu,Kulak Burun Boğaz,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+250,Sidar Fırat,Göz Hastalıkları,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+251,Boztaş Sezer,Dahiliye,Bursa Şehir Hastanesi
+252,Kayıt Şener,Göz Hastalıkları,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+253,Alışık Kısakürek,Ortopodi,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+254,Özsözlü Demirel,Dahiliye,Bursa Çekirge Devlet Hastanesi
+255,Oldağ Yüksel,Kulak Burun Boğaz,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+256,Süzer Yorulmaz,Psikiyatri,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+257,Gönen Öcalan,Kardiyoloji,Özel Ege Şehir Hastanesi
+258,Aşhan Arsoy,Dahiliye,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+259,Saydam Fırat,Psikiyatri,Özel Acıbadem Bursa Hastanesi
+260,Ümray Yaman,Dahiliye,Özel Acıbadem Bursa Hastanesi
+261,Oluş Ertaş,Jinekoloji,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+262,Akatay Ergül,Nöroloji,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+263,Öngen Çamurcuoğlu,Üroloji,Özel Acıbadem Bursa Hastanesi
+264,Beyler Tarhan,Ortopodi,Ankara Bilkent Şehir Hastanesi
+265,Safet Zengin,Üroloji,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+266,Narhanim Şama,Nöroloji,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+267,Hekmet Akdeniz,Psikiyatri,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+268,Ermutlu Ülker,Psikiyatri,Özel Ege Şehir Hastanesi
+269,Ticen Durmuş,Genel Cerrahi,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+270,Gülsiye Çetin,Jinekoloji,Ankara Bilkent Şehir Hastanesi
+271,Bezek Çorlu,Göz Hastalıkları,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+272,Bariş Tarhan,Ortopodi,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+273,Sabır Yıldırım,Nöroloji,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+274,Binay Korutürk,Pediatri,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+275,Tümer Bilgin,Pediatri,Özel Ege Şehir Hastanesi
+276,Baba Şener,Ortopodi,Haseki Eğitim ve Araştırma Hastanesi
+277,Rana Sezer,Pediatri,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+278,Sözer Akar,Pediatri,Özel City Hospital
+279,Savak Eraslan,Dahiliye,Özel City Hospital
+280,Alsoy Gül,Nöroloji,Özel Acıbadem Bursa Hastanesi
+281,Yankı Demirel,Jinekoloji,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+282,Alpin Çamurcuoğlu,Cildiye,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+283,Gülfari Çetin,Dahiliye,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+284,Abdülkerim Şener,Göz Hastalıkları,Özel Ege Şehir Hastanesi
+285,Aykutalp Mansız,Nöroloji,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+286,Meyhanim Yılmaz,Dahiliye,Haseki Eğitim ve Araştırma Hastanesi
+287,Cabir Mansız,Pediatri,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+288,Zilfa Şafak,Göz Hastalıkları,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+289,Baytal Tarhan,Kulak Burun Boğaz,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+290,Uluman Bilgin,Psikiyatri,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+291,Durdali Yılmaz,Kulak Burun Boğaz,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+292,Öncel Erdoğan,Kardiyoloji,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+293,Tüzenur Şensoy,Genel Cerrahi,Ankara Bilkent Şehir Hastanesi
+294,Samurtay Sakarya,Dahiliye,Özel City Hospital
+295,Sefer Çorlu,Kulak Burun Boğaz,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+296,Tomurcuk Zorlu,Psikiyatri,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+297,Aliabbas Kısakürek,Genel Cerrahi,Bursa Şehir Hastanesi
+298,Binay Akgündüz,Psikiyatri,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+299,Hariz Eraslan,Dahiliye,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+300,Ferzi Manço,Ortopodi,Bursa Çekirge Devlet Hastanesi
+301,Gürelcem Fırat,Genel Cerrahi,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+302,Çelikkan İhsanoğlu,Ortopodi,Haseki Eğitim ve Araştırma Hastanesi
+303,Kayıt Alemdar,Jinekoloji,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+304,Turgut Arslan,Genel Cerrahi,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+305,Sernur Akgündüz,Jinekoloji,Koç Üniversitesi Hastanesi
+306,Şerman Şama,Dahiliye,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+307,Dilfeza Sezer,Kardiyoloji,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+308,Alsoy Şafak,Dahiliye,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+309,Huzuri Türk,Göz Hastalıkları,Haseki Eğitim ve Araştırma Hastanesi
+310,Gökbudun Aksu,Dahiliye,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+311,Serezli Ülker,Pediatri,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+312,Süzer Yılmaz,Kulak Burun Boğaz,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+313,Hayel Sakarya,Cildiye,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+314,Kayrabay Kısakürek,Genel Cerrahi,Koç Üniversitesi Hastanesi
+315,Mezide Şener,Kardiyoloji,Özel City Hospital
+316,Kerime Çorlu,Nöroloji,Bursa Şehir Hastanesi
+317,Kırgız Bilir,Nöroloji,Özel Ege Şehir Hastanesi
+318,Bariş Sezer,Göz Hastalıkları,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+319,Mishat Hayrioğlu,Dahiliye,Bursa Çekirge Devlet Hastanesi
+320,Dürrüşehvar Alemdar,Nöroloji,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+321,Maksüde Yaman,Kulak Burun Boğaz,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+322,Serda Durmuş,Genel Cerrahi,Özel City Hospital
+323,Hanbiken Bilge,Nöroloji,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+324,Şerafeddin Şama,Göz Hastalıkları,Koç Üniversitesi Hastanesi
+325,Aykutalp Hançer,Dahiliye,Haseki Eğitim ve Araştırma Hastanesi
+326,Sırriye Çetin,Genel Cerrahi,Ankara Bilkent Şehir Hastanesi
+327,Işıman Seven,Göz Hastalıkları,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+328,Uygun Ergül,Nöroloji,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+329,Bengibay Hayrioğlu,Genel Cerrahi,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+330,Naz Eraslan,Kulak Burun Boğaz,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+331,Dinçkol Çetin,Pediatri,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+332,Salurbay Hançer,Göz Hastalıkları,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+333,Vahittin Aslan,Nöroloji,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+334,Hilayda Seven,Dahiliye,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+335,Irıs Yıldırım,Dahiliye,Bursa Çekirge Devlet Hastanesi
+336,Aru Soylu,Dahiliye,Koç Üniversitesi Hastanesi
+337,İde Duran,Kardiyoloji,Bursa Çekirge Devlet Hastanesi
+338,Deryanur Korutürk,Pediatri,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+339,Yigit Bilir,Kulak Burun Boğaz,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+340,Şennur Aslan,Psikiyatri,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+341,Doğannur Türk,Jinekoloji,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+342,Güçlüer Hayrioğlu,Jinekoloji,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+343,Şerafeddin Duran,Üroloji,Koç Üniversitesi Hastanesi
+344,Rafih Akgündüz,Cildiye,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+345,Nürice Kısakürek,Psikiyatri,Haseki Eğitim ve Araştırma Hastanesi
+346,Evde Manço,Cildiye,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+347,Azize Yüksel,Dahiliye,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+348,Gülbeyan Zorlu,Dahiliye,Özel Ege Şehir Hastanesi
+349,Abdulkadir Zengin,Jinekoloji,Koç Üniversitesi Hastanesi
+350,Özkutlu Sezer,Ortopodi,Özel City Hospital
+351,Ziyaettin Tarhan,Dahiliye,Özel City Hospital
+352,Sadeti Yıldırım,Pediatri,Özel City Hospital
+353,İlkim Yaman,Göz Hastalıkları,Bursa Çekirge Devlet Hastanesi
+354,Refik Sakarya,Psikiyatri,Ankara Bilkent Şehir Hastanesi
+355,Bilgen Akçay,Kardiyoloji,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+356,Özdil Şama,Göz Hastalıkları,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+357,Tayyip Sezer,Göz Hastalıkları,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+358,Bayman Çetin,Nöroloji,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+359,Özinal Ergül,Psikiyatri,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+360,Zoral Tevetoğlu,Dahiliye,Özel Ege Şehir Hastanesi
+361,Doğanşah Durmuş,Jinekoloji,Özel Ege Şehir Hastanesi
+362,Perinur Yüksel,Pediatri,Özel City Hospital
+363,Tartış Manço,Üroloji,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+364,Bayzettin Çorlu,Üroloji,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+365,Gülbiye Akçay,Kulak Burun Boğaz,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+366,Cannur Akçay,Pediatri,Haseki Eğitim ve Araştırma Hastanesi
+367,İbrahim Manço,Dahiliye,Ankara Bilkent Şehir Hastanesi
+368,Erbay Hançer,Kulak Burun Boğaz,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+369,Mecit Korutürk,Kulak Burun Boğaz,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+370,Çamok Demirel,Dahiliye,Özel Ege Şehir Hastanesi
+371,Zoral Hançer,Jinekoloji,Özel Ege Şehir Hastanesi
+372,Ahter Türk,Psikiyatri,Ankara Bilkent Şehir Hastanesi
+373,Masume Dumanlı,Nöroloji,Bursa Çekirge Devlet Hastanesi
+374,Abdülahat Zengin,Jinekoloji,Özel City Hospital
+375,Güldünya Dumanlı,Dahiliye,Koç Üniversitesi Hastanesi
+376,Oguş Durdu,Dahiliye,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+377,Gülgen Zorlu,Ortopodi,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+378,Nebih Yıldırım,Kardiyoloji,Özel Acıbadem Bursa Hastanesi
+379,Rayla Ergül,Genel Cerrahi,Ankara Bilkent Şehir Hastanesi
+380,Demirok Demir,Nöroloji,Ankara Bilkent Şehir Hastanesi
+381,Boynak Ülker,Dahiliye,Bursa Şehir Hastanesi
+382,Elhan Akça,Jinekoloji,Özel Ege Şehir Hastanesi
+383,Aykutalp Türk,Kulak Burun Boğaz,Bursa Çekirge Devlet Hastanesi
+384,Sayrak Şafak,Dahiliye,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+385,Alpcan Akçay,Jinekoloji,Özel City Hospital
+386,Lâle Aslan,Kardiyoloji,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+387,Gökten Eraslan,Göz Hastalıkları,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+388,Zülbiye Gülen,Cildiye,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+389,Gülşeref Türk,Genel Cerrahi,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+390,Omaca Dumanlı,Genel Cerrahi,Bursa Çekirge Devlet Hastanesi
+391,Gökçebalan Öcalan,Pediatri,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+392,Süvari Akdeniz,Cildiye,Bursa Çekirge Devlet Hastanesi
+393,Sadittin Yorulmaz,Cildiye,Özel City Hospital
+394,Zülbiye Öcalan,Dahiliye,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+395,Akay Aksu,Kardiyoloji,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+396,Nurtaç Demir,Jinekoloji,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+397,Oruç Akar,Dahiliye,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+398,Binay Demirel,Ortopodi,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+399,Kader Güçlü,Pediatri,Haseki Eğitim ve Araştırma Hastanesi
+400,Buyrukhan Gül,Kardiyoloji,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+401,Taylak Manço,Psikiyatri,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+402,Dilsitan Manço,Psikiyatri,Koç Üniversitesi Hastanesi
+403,Şayan Zorlu,Genel Cerrahi,Ankara Bilkent Şehir Hastanesi
+404,Güngördü Seven,Pediatri,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+405,Kibar Yorulmaz,Ortopodi,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+406,Cannur Soylu,Psikiyatri,Ankara Bilkent Şehir Hastanesi
+407,Kenter Şafak,Ortopodi,Haseki Eğitim ve Araştırma Hastanesi
+408,Aydar Akdeniz,Üroloji,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+409,Pirahmet Mansız,Dahiliye,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+410,Temizkal Seven,Kardiyoloji,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+411,Çolpan Seven,Pediatri,Bursa Şehir Hastanesi
+412,Hezniye Fırat,Pediatri,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+413,Nasuf Ergül,Dahiliye,Bursa Şehir Hastanesi
+414,Meryeme Şafak,Kulak Burun Boğaz,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+415,Edaviye Durmuş,Jinekoloji,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+416,Tümkurt Akar,Pediatri,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+417,Kılıçbay Öcalan,Dahiliye,Bursa Çekirge Devlet Hastanesi
+418,Fersan Yılmaz,Cildiye,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+419,Vâlâ Yılmaz,Cildiye,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+420,Balca Durmuş,Üroloji,Bursa Çekirge Devlet Hastanesi
+421,Selaheddin Yıldırım,Genel Cerrahi,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+422,Oktüremiş İnönü,Psikiyatri,Özel City Hospital
+423,Melikkan Şensoy,Üroloji,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+424,Gülfeza Güçlü,Kulak Burun Boğaz,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+425,Ballı Tarhan,Cildiye,Özel Acıbadem Bursa Hastanesi
+426,Enes Sezer,Göz Hastalıkları,Haseki Eğitim ve Araştırma Hastanesi
+427,Nurhayet Korutürk,Dahiliye,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+428,Karakucak Türk,Dahiliye,Ankara Bilkent Şehir Hastanesi
+429,Ürper Korutürk,Pediatri,Özel Ege Şehir Hastanesi
+430,Canseven Karadeniz,Ortopodi,Özel City Hospital
+431,Besin Ergül,Üroloji,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+432,Kader Fırat,Kardiyoloji,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+433,Yağızkurt Çetin,Ortopodi,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+434,Şelâle Durmuş,Dahiliye,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+435,Müğber Zengin,Psikiyatri,Özel City Hospital
+436,Teknaz Akar,Ortopodi,Haseki Eğitim ve Araştırma Hastanesi
+437,Müret Yorulmaz,Dahiliye,Özel Acıbadem Bursa Hastanesi
+438,Ballı Zengin,Dahiliye,Koç Üniversitesi Hastanesi
+439,Erik Mansız,Kulak Burun Boğaz,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+440,Cercis Durdu,Pediatri,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+441,Bayzettin Gül,Göz Hastalıkları,Koç Üniversitesi Hastanesi
+442,Tagangül Duran,Dahiliye,Özel City Hospital
+443,Mahsun Dumanlı,Dahiliye,Haseki Eğitim ve Araştırma Hastanesi
+444,Eba İhsanoğlu,Dahiliye,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+445,Nurveren Yüksel,Cildiye,Ankara Bilkent Şehir Hastanesi
+446,Nas Gülen,Genel Cerrahi,Özel City Hospital
+447,Topuz Demirel,Dahiliye,Bursa Çekirge Devlet Hastanesi
+448,Beste Aksu,Cildiye,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi
+449,Teknaz Bilgin,Pediatri,Özel City Hospital
+450,Amre Çamurcuoğlu,Pediatri,Özel City Hospital
+451,Tan Ülker,Dahiliye,Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi
+452,Kader Çetin,Pediatri,Özel Acıbadem Bursa Hastanesi
+453,Ayçan Şener,Dahiliye,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+454,Müşüre Akça,Kulak Burun Boğaz,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+455,Aysoy Manço,Ortopodi,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+456,İldeş Çetin,Dahiliye,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+457,Dirlik Ergül,Dahiliye,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+458,Musafet Bilge,Dahiliye,Koç Üniversitesi Hastanesi
+459,Nurser Akgündüz,Genel Cerrahi,Bursa Çekirge Devlet Hastanesi
+460,Özalpsan Gül,Göz Hastalıkları,Koç Üniversitesi Hastanesi
+461,Nades Bilge,Ortopodi,Özel Acıbadem Bursa Hastanesi
+462,Nirgül Akgündüz,Kardiyoloji,Bursa Şehir Hastanesi
+463,Sezal Mansız,Psikiyatri,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+464,Seyithan Durmuş,Cildiye,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+465,Yankı Karadeniz,Kulak Burun Boğaz,Özel Acıbadem Bursa Hastanesi
+466,Çoğay Gül,Kulak Burun Boğaz,Ankara Bilkent Şehir Hastanesi
+467,Paksu Mansız,Dahiliye,Özel City Hospital
+468,Ekmel Aslan,Pediatri,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+469,Rakide Karadeniz,Kardiyoloji,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+470,Velitdin Sakarya,Jinekoloji,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+471,Duha Demirel,Göz Hastalıkları,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+472,Akise Yıldırım,Kardiyoloji,Özel Acıbadem Bursa Hastanesi
+473,Bilay Manço,Dahiliye,İzmir Tepecik Eğitim ve Araştırma Hastanesi
+474,Tandoğdu Yaman,Pediatri,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+475,Behiza Kısakürek,Pediatri,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+476,Karaca Yorulmaz,Göz Hastalıkları,Özel Ege Şehir Hastanesi
+477,İbrahim Zengin,Psikiyatri,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+478,Kiramettin Arsoy,Psikiyatri,Bursa Şehir Hastanesi
+479,Adlan Bilge,Kardiyoloji,Ankara Bilkent Şehir Hastanesi
+480,Durmuşali Erdoğan,Dahiliye,Bursa Şehir Hastanesi
+481,Yurtgüven Manço,Göz Hastalıkları,Koç Üniversitesi Hastanesi
+482,Âdem Tarhan,Psikiyatri,Bursa Çekirge Devlet Hastanesi
+483,Önsal Hançer,Genel Cerrahi,Ankara Bilkent Şehir Hastanesi
+484,Mirbadin Durmuş,Pediatri,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+485,Tuğrulhan Gülen,Cildiye,Bursa Şehir Hastanesi
+486,Ozansü Akçay,Göz Hastalıkları,Koç Üniversitesi Hastanesi
+487,Remazan Yıldırım,Ortopodi,Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi
+488,Beste Alemdar,Göz Hastalıkları,Özel City Hospital
+489,Ayyaruk Kısakürek,Jinekoloji,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+490,Oğurata Aksu,Ortopodi,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+491,Pürçek Alemdar,Pediatri,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+492,Dayar Soylu,Genel Cerrahi,Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi
+493,Akgüneş Arslan,Kulak Burun Boğaz,İzmir Atatürk Eğitim ve Araştırma Hastanesi
+494,Fahrullah Fırat,Cildiye,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+495,Oldağ Tevetoğlu,Cildiye,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+496,Dalkılıç Zengin,Göz Hastalıkları,İzmir Bozyaka Eğitim ve Araştırma Hastanesi
+497,Baydu Türk,Kulak Burun Boğaz,Koç Üniversitesi Hastanesi
+498,Muarra Durdu,Cildiye,GATA Haydarpaşa Eğitim ve Araştırma Hastanesi
+499,Aypar Çorlu,Genel Cerrahi,Koç Üniversitesi Hastanesi
+500,Günebakan Sezer,Pediatri,Bursa Şehir Hastanesi
