@@ -8,7 +8,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Tokenizer ve modeli yükleme
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-model = BertForSequenceClassification.from_pretrained('bert_specialty_model')
+model = BertForSequenceClassification.from_pretrained("unpronohoney/samsung")
 model.to(device)
 
 # Etiket kodlayıcısını yükleme (önceden kaydedilmiş olmalı!)
