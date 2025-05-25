@@ -5,8 +5,6 @@ scikit-learn
 pandas
 numpy
 datasets
-importlib-metadata
-pickle5
 matplotlib
 seaborn
 faker
